@@ -1,0 +1,9 @@
+[project]
+name = "hw3"
+version = "1.0.0"
+description = "Homework 3"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy>=2.2.5,<3.0"
+]
