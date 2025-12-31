@@ -1,0 +1,3 @@
+Sync time: 14.3602 seconds
+Threading time: 14.2361 seconds
+Multiprocessing time: 2.1921 seconds
